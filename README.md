@@ -15,5 +15,10 @@
 - 🛢 MsSQL, MySQL, PostgreSQL, DynamoDB, MongoDB
 - ⚙️ Jenkins, Docker, Maven, Gradle, NPM, Git, GitHub Actions
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=asatbekDeveloper&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  <!-- GitHub Streak -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=asatbekDeveloper&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+  <!-- LeetCode Streak -->
+  [![LeetCode Streak](https://leetcode-stats-six.vercel.app/api?username=asatbek&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
