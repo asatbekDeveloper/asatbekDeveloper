@@ -5,12 +5,26 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello, I'm Asatbek Khalimjonov 👋
+
+## About Me
+- 🌐 Location: Tashkent, Uzbekistan
+- 💼 Job: Software Engineer at Epam Systems
+- 🎓 Education: Tashkent University of Information Technologies
+- 📧 Email: asatbekxalimjonov2000@gmail.com
+
+## Current Work
+- 👨‍💻 Software Engineer at Epam Systems
+
+## Tech Stack
+- 💻 English, Uzbek
+- 🌐 Java, Spring, JavaScript, Angular
+- 🛢 MSSQL, MySQL, PostgreSQL, DynamoDB, Mongodb
+- ⚙️ Jenkins, Docker, Maven, Gradle, NPM
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/asatbekxalimjonov/)
+- [Twitter](https://twitter.com/AsadbeCS)
+- [LeetCode](https://leetcode.com/asatbek/)
+
+
