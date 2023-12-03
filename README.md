@@ -21,7 +21,7 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=asatbekDeveloper&theme=dark" alt="GitHub Streak" />
   </a>
-  
+  <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://leetcode-stats-six.vercel.app/api?username=asatbek&theme=dark" alt="LeetCode Streak" />
   </a>
