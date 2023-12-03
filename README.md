@@ -1,28 +1,50 @@
-# Hello, I'm Asatbek Khalimjonov 👋
+<a href="https://t.me/AsadbekXalimjonov"><img src="memoji.png" align="right" height="200"/></a>
 
-## About Me
-- 🌐 Location: Tashkent, Uzbekistan
-- 💼 Job: Software Engineer at Epam Systems
-- 🎓 Education: Tashkent University of Information Technologies
-- 📧 Email: asatbekxalimjonov2000@gmail.com
+# Hi there, I'm Asatbek 👋
 
-## Current Work
-- 👨‍💻 Software Engineer at Epam Systems
+> Software Engineer at `Epam Systems`.
+<br/><br/><br/>
 
-## Tech Stack
-- 💻 English, Uzbek
-- 🌐 Java, Spring, JavaScript, Angular
-- 🛢 MsSQL, MySQL, PostgreSQL, DynamoDB, MongoDB
-- ⚙️ Jenkins, Docker, Maven, Gradle, NPM, Git, GitHub Actions
+<p align="end">
+<a href="https://www.linkedin.com/in/asatbekxalimjonov/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+<a href="https://t.me/AsadbekXalimjonov"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
+<a href="https://instagram.com/asadbekcs"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
+<a href="https://facebook.com/asadbekCS"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square&logo=facebook"></a>
+</p>
 
-## My Stats
+<h1> 👨🏻‍💻 Me now </h1>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Student at Tashkent University of Information Technologies.
+- ⌛️ &nbsp; Currently I'm busy with:
+  - 💼 &nbsp; Working as a Software Engineer at [Epam Systems.](https://www.epam.com/)
+- 📝 &nbsp; Reach me at [Telegram.](https://t.me/AsadbekXalimjonov)
+- 🌱 &nbsp; Learning DevOps and a lot more tech stuff.
+- 📫 &nbsp; Reach me at: asatbekxalimjonov2000@gmail.com.
+
+<br/>
+
+<h1>🛠 Me Stack</h1>
+
+- 💻 &nbsp; `.java` | `.php` | `.ts` | `.py` | `.sh` | `.yml` | `.html` | `.css` | `.js`
+- 🌐 &nbsp; Java | Spring | PHP | Laravel
+- 🕸 &nbsp; JavaScript | Angular | TypeScript | Bootstrap | HTML5 | CSS
+- 🛢 &nbsp; MsSql Server | PostgreSql | MySql
+- ⚙️ &nbsp; Git | Bash | Docker | docker-compose | Github Actions | Jenkins CI CD
+
+<br/>
+
+<h1>Me Stats</h1>
+
+<div align="center">
+<div>
+ <br/>
+
+[![Asatbek's Streak](https://github-readme-streak-stats.herokuapp.com?user=asatbekDeveloper&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=asatbekDeveloper&theme=dark" alt="GitHub Streak" />
-  </a>
-  <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=asatbek&theme=dark" alt="LeetCode Streak" />
-  </a>
+    <a href="https://leetcode.com/asatbek/"><img width="50%" src="https://leetcode.card.workers.dev/asatbek?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p>
+  
+[![](https://komarev.com/ghpvc/?username=asatbekDeveloper&color=orange&label=Profile%20Views)](https://github.com/asatbekDeveloper/asatbekDeveloper)
+[![](https://img.shields.io/github/followers/shukhratutaboev?label=GitHub%20Followers)](https://github.com/asatbekDeveloper)
