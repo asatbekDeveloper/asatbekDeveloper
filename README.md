@@ -1,4 +1,4 @@
-<a href="https://t.me/AsadbekXalimjonov"><img src="memoji.png" align="right" height="200"/></a>
+<a href="https://t.me/AsadbekXalimjonov"></a>
 
 # Hi there, I'm Asatbek 👋
 
@@ -18,8 +18,8 @@
 - 🎓 &nbsp; Student at Tashkent University of Information Technologies.
 - ⌛️ &nbsp; Currently I'm busy with:
   - 💼 &nbsp; Working as a Software Engineer at [Epam Systems.](https://www.epam.com/)
-- 📝 &nbsp; Reach me at [Telegram.](https://t.me/AsadbekXalimjonov)
 - 🌱 &nbsp; Learning DevOps and a lot more tech stuff.
+- 📝 &nbsp; Reach me at [Telegram.](https://t.me/AsadbekXalimjonov)
 - 📫 &nbsp; Reach me at: asatbekxalimjonov2000@gmail.com.
 
 <br/>
