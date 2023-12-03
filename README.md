@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**asatbekDeveloper/asatbekDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # Hello, I'm Asatbek Khalimjonov 👋
 
 ## About Me
@@ -19,7 +12,7 @@ Here are some ideas to get you started:
 ## Tech Stack
 - 💻 English, Uzbek
 - 🌐 Java, Spring, JavaScript, Angular
-- 🛢 MSSQL, MySQL, PostgreSQL, DynamoDB, Mongodb
+- 🛢 MSSQL, MySQL, PostgreSQL, DynamoDB, MongoDB
 - ⚙️ Jenkins, Docker, Maven, Gradle, NPM
 
 ## Connect with Me
