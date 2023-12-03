@@ -12,12 +12,8 @@
 ## Tech Stack
 - 💻 English, Uzbek
 - 🌐 Java, Spring, JavaScript, Angular
-- 🛢 MSSQL, MySQL, PostgreSQL, DynamoDB, MongoDB
-- ⚙️ Jenkins, Docker, Maven, Gradle, NPM
+- 🛢 MsSQL, MySQL, PostgreSQL, DynamoDB, MongoDB
+- ⚙️ Jenkins, Docker, Maven, Gradle, NPM, Git, GitHub Actions
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/asatbekxalimjonov/)
-- [Twitter](https://twitter.com/AsadbeCS)
-- [LeetCode](https://leetcode.com/asatbek/)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=asatbekDeveloper&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
