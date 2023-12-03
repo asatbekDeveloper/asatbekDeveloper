@@ -47,4 +47,4 @@
 </p>
   
 [![](https://komarev.com/ghpvc/?username=asatbekDeveloper&color=orange&label=Profile%20Views)](https://github.com/asatbekDeveloper/asatbekDeveloper)
-[![](https://img.shields.io/github/followers/shukhratutaboev?label=GitHub%20Followers)](https://github.com/asatbekDeveloper)
+[![](https://img.shields.io/github/followers/asatbekDeveloper?label=GitHub%20Followers)](https://github.com/asatbekDeveloper)
