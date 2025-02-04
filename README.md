@@ -2,7 +2,7 @@
 
 # Hi there, I'm Asatbek 👋
 
-> Software Engineer at `Epam Systems`.
+> Software Engineer.
 <br/><br/><br/>
 
 <p align="end">
