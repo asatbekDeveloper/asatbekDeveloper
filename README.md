@@ -17,7 +17,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Student at Tashkent University of Information Technologies.
 - ⌛️ &nbsp; Currently I'm busy with:
-  - 💼 &nbsp; Working as a Software Engineer at [Epam Systems.](https://www.epam.com/)
+  - 💼 &nbsp; Working as a Software Engineer
 - 🌱 &nbsp; Learning DevOps and a lot more tech stuff.
 - 📝 &nbsp; Reach me at [Telegram.](https://t.me/AsadbekXalimjonov)
 - 📫 &nbsp; Reach me at: asatbekxalimjonov2000@gmail.com.
